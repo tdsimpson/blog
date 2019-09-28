@@ -4,4 +4,5 @@
 * 2.6.3
 
 ## System dependencies
-* Bulma, Simple Form
+* Bulma - CSS framwork
+* Simple Form - HTML & CSS form
